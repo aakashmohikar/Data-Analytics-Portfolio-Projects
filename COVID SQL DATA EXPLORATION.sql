@@ -1,6 +1,8 @@
 /*
 Covid 19 Data Exploration 
 
+Link to Tableau Public Dashboard - https://public.tableau.com/views/CovidVizTableauProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 */
